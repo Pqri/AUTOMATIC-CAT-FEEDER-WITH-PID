@@ -1,6 +1,6 @@
 # Automatic Cat Feeder with PID Control
 
-Proyek ini adalah sistem pemberi makan otomatis untuk kucing yang menggunakan sensor berat (Load Cell) dan kontrol PID untuk memastikan pakan yang diberikan sesuai dengan target berat tertentu. Sistem ini juga memanfaatkan sensor ultrasonik untuk mendeteksi jarak, servo motor untuk mengatur pembukaan katup dispenser, serta dilengkapi dengan **Linear Actuator Servo Extension** untuk pengaturan yang lebih presisi.
+Proyek ini adalah sistem pemberi makan otomatis untuk kucing yang menggunakan sensor berat (Load Cell) dan kontrol PID untuk memastikan pakan yang diberikan sesuai dengan target berat tertentu. Sistem ini juga memanfaatkan sensor ultrasonik untuk mendeteksi jarak, servo motor untuk mengatur pembukaan katup tempat pakan, serta dilengkapi dengan **Linear Actuator Servo Extension** untuk pengaturan yang lebih presisi.
 
 ---
 
